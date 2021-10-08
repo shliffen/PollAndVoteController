@@ -24,10 +24,11 @@ Link to the video with the "presentation" (RU): https://www.youtube.com/watch?v=
 
 
 **Version and additional Software**
+
 Jdk version 1.8, tested on Java 14, requires Postman as front-end
 
 **Technologies used**
-Java + Maven + Spring Boot MVC + REST + H2 (as Database) + Postman (as FrontEnd) + JUnit+Mockito
+Java, Maven, Spring Boot MVC, REST, H2 (as Database), Postman (as FrontEnd), JUnit & Mockito (Tests)
 
 **What realized inside**
 * Sample of Spring REST application which can manipulate (create, update, delete) Polls, collect and calculate Votes inside Polls
