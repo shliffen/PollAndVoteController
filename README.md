@@ -19,9 +19,6 @@ and then run with QuickPoll.bat / QuickPoll.sh:
 
 7. In order not to remember passwords and logins once again, in the requests "CreateVote", "Create Poll" and "GetVoteComputeResult" in the authorization tab filled in fields are prepared for different roles.
 
-**Can I see how it works on the video?**
-Link to the video with the "presentation" (RU): https://www.youtube.com/watch?v=D4Ho_rc_Ndw 
-
 
 **Version and additional Software**
 Jdk version 1.8, tested on Java 14, requires Postman as front-end
